@@ -1444,7 +1444,7 @@ export function PaymentList({ type }: { type: "organization" | "employee" }) {
         {insufficientBalance && !showDepositForm && (
           <div className="mt-4 bg-yellow-500/10 border border-yellow-500/30 text-yellow-300 p-3 rounded-lg text-sm flex items-center gap-2">
             <AlertTriangle className="h-4 w-4" />
-            <span>ETN TO THE MOON!</span>
+            <span>STO THE MOON!</span>
           </div>
         )}
         

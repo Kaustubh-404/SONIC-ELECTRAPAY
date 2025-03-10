@@ -25,13 +25,13 @@
 //         <div className="container mx-auto px-4 text-center">
 //           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-white/10 bg-white/5 mb-8">
 //             <span className="size-2 rounded-full bg-emerald-500"></span>
-//             <span className="text-sm">Powered by ElectroneumTestnet</span>
+//             <span className="text-sm">Powered by SONICTestnet</span>
 //           </div>
 //           <h1 className="text-4xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-white to-white/60 bg-clip-text text-transparent">
 //             Revolutionize Your Recurring Payments with Blockchain
 //           </h1>
 //           <p className="text-lg md:text-xl text-zinc-400 max-w-3xl mx-auto mb-12">
-//             ElectraPay is a decentralized platform that automates and secures your recurring payments using smart contracts on the ElectroneumTestnet. Perfect for organizations managing employee payments.
+//             ElectraPay is a decentralized platform that automates and secures your recurring payments using smart contracts on the SONICTestnet. Perfect for organizations managing employee payments.
 //           </p>
 //           <div className="flex flex-col sm:flex-row gap-4 justify-center">
 //             <Link
@@ -96,7 +96,7 @@
 //               {
 //                 step: "3",
 //                 title: "Smart Contract",
-//                 description: "Payments are automated via Electroneumsmart contracts",
+//                 description: "Payments are automated via SONICsmart contracts",
 //                 icon: Boxes
 //               },
 //               {
@@ -128,7 +128,7 @@
 //           </div>
 //           <h2 className="text-3xl font-bold mb-6">Secured by Blockchain Technology</h2>
 //           <p className="text-lg text-zinc-400 max-w-2xl mx-auto">
-//             ElectraPay leverages the power of ElectroneumTestnet and smart contracts to ensure your recurring payments are secure, transparent, and immutable.
+//             ElectraPay leverages the power of SONICTestnet and smart contracts to ensure your recurring payments are secure, transparent, and immutable.
 //           </p>
 //         </div>
 //       </section>
@@ -238,13 +238,13 @@
 //         <div className="container mx-auto px-4 text-center relative z-10">
 //           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-white/10 bg-white/5 mb-8 backdrop-blur-md hover:border-emerald-500/30 transition-colors">
 //             <span className="h-2 w-2 rounded-full bg-emerald-500 animate-pulse" style={{ animationDuration: '2s' }}></span>
-//             <span className="text-sm">Powered by Electroneum </span>
+//             <span className="text-sm">Powered by SONIC </span>
 //           </div>
 //           <h1 className="text-4xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-white via-emerald-200 to-white/60 bg-clip-text text-transparent animate-gradient-x">
 //             Revolutionize Your Recurring Payments with Blockchain
 //           </h1>
 //           <p className="text-lg md:text-xl text-zinc-400 max-w-3xl mx-auto mb-12 backdrop-blur-sm">
-//             ElectraPay is a decentralized platform that automates and secures your recurring payments using smart contracts on the Electroneum. Perfect for organizations managing employee payments.
+//             ElectraPay is a decentralized platform that automates and secures your recurring payments using smart contracts on the SONIC. Perfect for organizations managing employee payments.
 //           </p>
 //           <div className="flex flex-col sm:flex-row gap-4 justify-center">
 //             <Link
@@ -323,7 +323,7 @@
 //               {
 //                 step: "3",
 //                 title: "Smart Contract",
-//                 description: "Payments are automated via Electroneumsmart contracts",
+//                 description: "Payments are automated via SONICsmart contracts",
 //                 icon: Boxes
 //               },
 //               {
@@ -360,7 +360,7 @@
 //           </div>
 //           <h2 className="text-3xl font-bold mb-6 bg-gradient-to-r from-white to-emerald-300 bg-clip-text text-transparent">Secured by Blockchain Technology</h2>
 //           <p className="text-lg text-zinc-400 max-w-2xl mx-auto backdrop-blur-sm">
-//             ElectraPay leverages the power of Electroneum and smart contracts to ensure your recurring payments are secure, transparent, and immutable.
+//             ElectraPay leverages the power of SONIC and smart contracts to ensure your recurring payments are secure, transparent, and immutable.
 //           </p>
           
 //           {/* Added security visual element */}
@@ -586,13 +586,13 @@ export default function Home() {
           
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-white/10 bg-white/5 mb-8 backdrop-blur-md hover:border-emerald-500/30 transition-colors">
             <span className="h-2 w-2 rounded-full bg-emerald-500 animate-pulse " style={{ animationDuration: '2s' }}></span>
-            <span className="text-sm">Powered by Electroneum</span>
+            <span className="text-sm">Powered by SONIC</span>
           </div>
           <h1 className="text-4xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-white via-emerald-200 to-white/60 bg-clip-text text-transparent animate-gradient-x relative z-20">
             Revolutionize Your Recurring Payments with Blockchain
           </h1>
           <p className="text-lg md:text-xl text-zinc-400 max-w-3xl mx-auto mb-12 backdrop-blur-sm">
-            ElectraPay is a decentralized platform that automates and secures your recurring payments using smart contracts on the Electroneum. Perfect for organizations managing employee payments.
+            ElectraPay is a decentralized platform that automates and secures your recurring payments using smart contracts on the SONIC. Perfect for organizations managing employee payments.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
@@ -671,7 +671,7 @@ export default function Home() {
               {
                 step: "3",
                 title: "Smart Contract",
-                description: "Payments are automated via Electroneumsmart contracts",
+                description: "Payments are automated via SONICsmart contracts",
                 icon: Boxes
               },
               {
@@ -708,7 +708,7 @@ export default function Home() {
           </div>
           <h2 className="text-3xl font-bold mb-6 bg-gradient-to-r from-white to-emerald-300 bg-clip-text text-transparent">Secured by Blockchain Technology</h2>
           <p className="text-lg text-zinc-400 max-w-2xl mx-auto backdrop-blur-sm">
-            ElectraPay leverages the power of Electroneum and smart contracts to ensure your recurring payments are secure, transparent, and immutable.
+            ElectraPay leverages the power of SONIC and smart contracts to ensure your recurring payments are secure, transparent, and immutable.
           </p>
           
           {/* Added security visual element */}
