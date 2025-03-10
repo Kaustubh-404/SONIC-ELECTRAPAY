@@ -4,7 +4,8 @@
 ElectraPay is a **decentralized payment ecosystem** that seamlessly integrates **AI automation, cross-chain bridging, and liquidity optimization** to provide a **fast, secure, and scalable** digital transaction experience.
 
 ## 🎥 **Watch ElectraPay in Action**
-[![ElectraPay Demo](https://img.youtube.com/vi/geo63FgG0A4/0.jpg)](https://youtu.be/geo63FgG0A4?feature=shared)
+[![ElectraPay Demo](https://img.youtube.com/vi/geo63FgG0A4/0.jpg)](https://youtu.be/k2Z5PnQnnpM)
+
 
 ## ✨ **Features**
 - 🔹 **Instant Transfers** – Fast and low-cost peer-to-peer transactions.
