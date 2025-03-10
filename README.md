@@ -90,7 +90,7 @@ ElectraPay is fully built upon **Sonic Chain**.
 
 ## 🔗 **Connect With Us**
 🐦 Twitter: [https://x.com/FLACKK_](https://x.com/FLACKK_)  
-📢 Telegram: [t.me/kaustubh@1610](t.me/kaustubh_1610)  
+📢 Telegram: [t.me/kaustubh@1610](https://t.me/kaustubh_1610)  
 
 ---
 
